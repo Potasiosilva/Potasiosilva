@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Potasiosilva
+- 👀 I’m interested in teaching clases of how to make fullstack web aplications 🕸️!
+- 🌱 I’m currently learning backend lenguages 💻
+- 📫 How to reach me you can just send a email to potasiosilva70@gmail.com and I will respond you in the fastest time I can 😄!
+- 😄Pronouns: He/Him
+- ⚡ Fun fact: I started programation at 10 👦
